@@ -30,7 +30,7 @@ III. Link the working directories: census = "/content/drive/MyDrive/MSBA_Colab_2
 
 IV. Run the Code 
 
-V. Refer to the Project Report for better Understanding  (" https://github.com/dhimansarkar18/Ophthalmic-Surgical-Data-Analytics/blob/main/Opthalmic%20Surgical%20Data%20Analytics%20and%20Insights%20-%20Project%20Report.pdf")
+V. Refer to the Project Report for better Understanding  (" https://github.com/dhimansarkar18/Ophthalmic-Surgical-Data-Analytics/blob/main/Opthalmic%20Surgical%20Data%20Analytics%20and%20Insights%20-%20Project%20Report.pdf ")
 # Procedures
 
 In order to create our model we followed the following steps:
