@@ -23,6 +23,7 @@ Upon downloading the dataset, a python notebook was created for further analysis
 
 Python Notebook: 
 ("https://github.com/dhimansarkar18/Predictive-Decision-Tree-Model/blob/main/CA03_Dhiman_Sarkar.ipynb") 
+
 Google Colab: 
 ("https://colab.research.google.com/drive/15EHEvGcKZ6LMuCT24LVNQSYh7NpMyd8-#scrollTo=yrKIfa407KV-")
 
@@ -68,4 +69,5 @@ XI. Summary and Conclusion
 
 # Author
 
-This study was conducted by Dhiman Sarkar, MS. Business Analytics 21' - Loyola Marymount University. ("https://github.com/dhimansarkar18")
+This study was conducted by Dhiman Sarkar, MS. Business Analytics 21' - Loyola Marymount University. 
+("https://github.com/dhimansarkar18")
