@@ -11,26 +11,35 @@ We thought it would be both an interesting and important topic for analysis and 
 
 # Dataset
 
-The data set can be downloaded via github: ("https://github.com/dhimansarkar18/Ophthalmic-Surgical-Data-Analytics/blob/main/Eye%20Care%20Surgical%20Data.csv") 
-Or via google drive: ("https://drive.google.com/drive/folders/15HQic6YJP4EYYhrTtIdiXeViB9hNMpmI")
+The data set can be downloaded via github: 
+("https://github.com/dhimansarkar18/Ophthalmic-Surgical-Data-Analytics/blob/main/Eye%20Care%20Surgical%20Data.csv") 
+
+Or via google drive: 
+("https://drive.google.com/drive/folders/15HQic6YJP4EYYhrTtIdiXeViB9hNMpmI")
 
 Upon downloading the dataset, a python notebook was created for further analysis.
 
 # Code
 
-Python Notebook: ("[https://github.com/dhimansarkar18/Predictive-Decision-Tree-Model/blob/main/CA03_Dhiman_Sarkar.ipynb](https://github.com/dhimansarkar18/Predictive-Decision-Tree-Model/blob/main/CA03_Dhiman_Sarkar.ipynb)") Google Colab: ("[https://colab.research.google.com/drive/15EHEvGcKZ6LMuCT24LVNQSYh7NpMyd8-#scrollTo=yrKIfa407KV-](https://colab.research.google.com/drive/15EHEvGcKZ6LMuCT24LVNQSYh7NpMyd8-#scrollTo=yrKIfa407KV-)")
+Python Notebook: 
+("https://github.com/dhimansarkar18/Predictive-Decision-Tree-Model/blob/main/CA03_Dhiman_Sarkar.ipynb") 
+Google Colab: 
+("https://colab.research.google.com/drive/15EHEvGcKZ6LMuCT24LVNQSYh7NpMyd8-#scrollTo=yrKIfa407KV-")
 
 # Instructions on how to launch
 
 I. Open the python notebook on google colab. 
 
-II. Mount the Google Drive: drive.mount("/content/drive") 
+II. Mount the Google Drive: 
+drive.mount("/content/drive") 
 
 III. Link the working directories: census = "/content/drive/MyDrive/MSBA_Colab_2020/ML_Algorithms/CA03/Data/census_data.csv" 
 
 IV. Run the Code 
 
-V. Refer to the Project Report for better Understanding  (" https://github.com/dhimansarkar18/Ophthalmic-Surgical-Data-Analytics/blob/main/Opthalmic%20Surgical%20Data%20Analytics%20and%20Insights%20-%20Project%20Report.pdf ")
+V. Refer to the Project Report for better Understanding:
+(" https://github.com/dhimansarkar18/Ophthalmic-Surgical-Data-Analytics/blob/main/Opthalmic%20Surgical%20Data%20Analytics%20and%20Insights%20-%20Project%20Report.pdf ")
+
 # Procedures
 
 In order to create our model we followed the following steps:
