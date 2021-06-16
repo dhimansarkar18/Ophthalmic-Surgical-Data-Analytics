@@ -1,5 +1,4 @@
 
-# Prediction Using Decision Tree Model
 
 [![](https://www.aoa.org/AOA/Images/News_2021/EYE_Genectics.jpg)
 
